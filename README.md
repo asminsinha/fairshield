@@ -202,6 +202,6 @@ Read through the plain-English generative audit explaining legal compliance stat
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 Developed and maintained by **Asmin Sinha**.
