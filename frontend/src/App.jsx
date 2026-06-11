@@ -25,7 +25,7 @@ export default function App() {
       formData.append('file', selectedFile);
       
       try {
-        const response = await fetch('http://127.0.0.1:8000/api/v1/inspect', {
+        const response = await fetch('https://asminsinha2005-fairshield-api.hf.space/api/v1/audit', {
           method: 'POST',
           body: formData,
         });
@@ -65,7 +65,7 @@ export default function App() {
     formData.append('privileged_value', privilegedValue.trim() || "");
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/api/v1/audit', {
+      const response = await fetch('https://asminsinha2005-fairshield-api.hf.space/api/v1/audit', {
         method: 'POST',
         body: formData,
       });
