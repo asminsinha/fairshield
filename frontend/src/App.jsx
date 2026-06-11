@@ -25,7 +25,7 @@ export default function App() {
       formData.append('file', selectedFile);
       
       try {
-        const response = await fetch('https://asminsinha2005-fairshield-api.hf.space/api/v1/audit', {
+        const response = await fetch('https://asminsinha2005-fairshield-api.hf.space/api/v1/inspect', {
           method: 'POST',
           body: formData,
         });
