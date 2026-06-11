@@ -202,8 +202,6 @@ Read through the plain-English generative audit explaining legal compliance stat
 
 ---
 
-## Why This README Works
+## 👨‍💻 Developer
 
-- **Recruiter Ready:** The layman summary lets non-technical managers or recruiters understand what you built instantly.
-- **Technical Integrity:** Including mathematical notation and fairness metrics demonstrates structural rigor.
-- **Immediate Reproducibility:** Anyone can pull down the repository, follow the setup instructions, and run it locally with minimal configuration.
+Developed and maintained by **Asmin Sinha**.
